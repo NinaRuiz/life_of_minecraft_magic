@@ -1,0 +1,10 @@
+{
+  "item.minecraft.potion.effect.magic_potion": "Magic Potion",
+  "item.minecraft.splash_potion.effect.magic_potion": "Splash Potion of Magic",
+  "item.minecraft.lingering_potion.effect.magic_potion": "Lingering Potion of Magic",
+
+  "item.life_of_minecraft_magic.student_letter": "Student Letter",
+
+  "effect.life_of_minecraft_magic.initialize_magic": "Magic"
+
+}
